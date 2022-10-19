@@ -1,0 +1,16 @@
+{
+  "miembros": [
+    { "id": "m1", "nombreCompleto": "Christian Juárez", "rol": "Ingeniero" },
+    { "id": "m2", "nombreCompleto": "Omar Portilla", "rol": "Diseñador" },
+    { "id": "m3", "nombreCompleto": "Fabiola Gómez", "rol": "Ingeniera" },
+    { "id": "m4", "nombreCompleto": "Renato Cabrera", "rol": "Arquitecto" },
+    { "id": "m5", "nombreCompleto": "Marta Acosta", "rol": "Diseñadora" },
+    { "id": "m6", "nombreCompleto": "Hernán Florez", "rol": "Ingeniero" },
+    { "id": "m7", "nombreCompleto": "André Cuentas", "rol": "Diseñadora" },
+    { "id": "m8", "nombreCompleto": "Diego Tejada", "rol": "Ingeniero" },
+    { "id": "m9", "nombreCompleto": "Alejandra Tapia", "rol": "Ingeniera" },
+    { "id": "m10", "nombreCompleto": "Liliana Núñez", "rol": "Arquitecta" },
+    { "id": "m11", "nombreCompleto": "Fernando Acosta", "rol": "Ingeniero" },
+    { "id": "m12", "nombreCompleto": "Juan Alarcón", "rol": "Diseñador" }
+  ]
+}
